@@ -1,0 +1,5 @@
+{
+    "min_span": 100, // millisecond
+    "win": "mitokomon.mp3",
+    "fail": "arrow_you_have_failed.mp3",
+}

@@ -1,0 +1,11 @@
+[
+	{
+		"caption": "Play Epic Victory Sound - Code Champion [ctrl+shift+v]",
+		"command": "playchampion",
+		"args": {"type": "win"}
+	},{
+		"caption": "Play Epic Fail Sound - Code Champion [ctrl+shift+f]",
+		"command": "playchampion",
+		"args": {"type": "fail"}
+	}
+]

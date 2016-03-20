@@ -1,0 +1,165 @@
+[{
+	"id": "tools",
+	"children": [{
+		"caption": "✌️ Epic Victory [ctrl+shift+v]",
+		"id": "Code Champion",
+		"children": [
+			{"caption": "💨 Sonic The Hedgehog - Stage Clear",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "sonic_the_hedgehog_act_cleared.wav"
+				}
+			},{"caption": "🍄 Super Mario Bros - Stage Clear",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "supermariobros_stage_clear.wav"
+				}
+			},{"caption": "🐶 Duck Hunt - Intro",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "duck_hunt_theme.wav"
+				}
+			},{"caption": "💀 Mortal Kombat - Finish Him",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "mk_finish_him.wav"
+				}
+			},{"caption": "💀 Mortal Kombat - Flawless Victory",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "mk_flawless_victory.wav"
+				}
+			},{"caption": "💀 Mortal Kombat - Ha Ha Ha!",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "mk_laugh.wav"
+				}
+			},{"caption": "👴 Mitokomon theme",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "mitokomon.wav"
+				}
+			},{"caption": "💥 THIS IS SPARTA!",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "this_is_sparta.wav"
+				}
+			},{"caption": "🌌 Star Wars theme",
+				"command": "changesound",
+				"args": { "type": "win",
+					"sound": "starwars_theme.wav"
+				}
+			},{"caption": "🐯 Eye Of Tiger (Rockey theme)",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "eye_of_tiger.wav"
+				}
+			},{"caption": "🤘 We Will Rock You",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "we_will_rock_you.wav"
+				}
+			},{"caption": "🕶 Gangnam Style",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "gangnam_style.wav"
+				}
+			},{"caption": "⛩ Battle Without Honor or Humanity (Kill Bill)",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "battle_without_honor_or_humanity.wav"
+				}
+			},{"caption": "💃 Livin' La Vida Loca",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "livin_la_vida_loca.wav"
+				}
+			},{"caption": "⚽️ La Copa De Lavida",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "la_copa_de_lavida.wav"
+				}
+			},{"caption": "🎼 O, Fortuna",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "o_fortuna.wav"
+				}
+			},{"caption": "🎹 Symphony N5 (Beethoven)",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "symphony_n5.wav"
+				}
+			},{"caption": "🇮🇷 سرود ملی ایران",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "iran_national_anthem.wav"
+				}
+			},{"caption": "🇮🇷 سرود ملی‌پوشان",
+				"command": "changesound",
+				"args":{ "type": "win",
+					"sound": "mellipoushan.wav"
+				}
+			},
+		]
+	},{
+		"caption": "💩 Epic Fail [ctrl+shift+f]",
+		"children": [
+			{"caption": "🍄 Super Mario Bros - Game Over",
+				"command": "changesound",
+				"args": { "type": "fail",
+					"sound": "supermariobros_gameover.wav"
+				}
+			},{"caption": "🐶 Duck Hunt - Dog Laugh",
+				"command": "changesound",
+				"args": { "type": "fail",
+					"sound": "duck_hunt_laugh.wav"
+				}
+			},{"caption": "🍩 Homer Simpson - You Failed",
+				"command": "changesound",
+				"args": { "type": "fail",
+					"sound": "homer_you_failed.wav"
+				}
+			},{"caption": "😡 Samuel L. Jackson - Motherf*cker",
+				"command": "changesound",
+				"args": { "type": "fail",
+					"sound": "pulp_fiction_say_what_again.wav"
+				}
+			},{"caption": "👤 Darth Vader - Don't Fail Me",
+				"command": "changesound",
+				"args": { "type": "fail",
+					"sound": "darth_vader_dont_fail_me.wav"
+				}
+			},{"caption": "🐍 Lord Voldemort - You're a Fool",
+				"command": "changesound",
+				"args": { "type": "fail",
+					"sound": "voldemort_your_a_fool.wav"
+				}
+			},{"caption": "🏹 You Have Failed This City",
+				"command": "changesound",
+				"args": { "type": "fail",
+					"sound": "arrow_you_have_failed.wav"
+				}
+			},{"caption": "👑 The Rains Of Castomere (GoT)",
+				"command": "changesound",
+				"args": { "type": "fail",
+					"sound": "rains_of_castomere.wav"
+				}
+			},{"caption": "👑 A Lannister Always Pays His Debts",
+				"command": "changesound",
+				"args": { "type": "fail",
+					"sound": "a_lannister_always_pays_his_debts.wav"
+				}
+			},{"caption": "👼 Chop Suey!",
+				"command": "changesound",
+				"args": { "type": "fail",
+					"sound": "chop_suey.wav"
+				}
+			},{"caption": "😢 Someone Like You (Adele)",
+				"command": "changesound",
+				"args": { "type": "fail",
+					"sound": "someone_like_you.wav"
+				}
+			},
+		]
+	}]
+}]

@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift+v"], "command": "playchampion" ,"args": {"type":"win"}},
+	{ "keys": ["ctrl+shift+f"], "command": "playchampion" ,"args": {"type":"fail"}}
+]
