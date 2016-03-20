@@ -1,11 +1,11 @@
 # CodeChampion
 
-![play epic music sublime text](https://lh3.googleusercontent.com/-kAfkrMEo2t4/Vu4cdKo7xvI/AAAAAAAACOg/23PD4yUbMaYI2IhS5SXTYbhjNbvEG2EMACCo/s598-Ic42/sublime-play-music.gif)
-
-
 When you write epic code, you'll need some epic music!
 
 This Plugin plays funny sound clips and epic musics on Sublime Text.
+
+
+![play epic music sublime text](https://lh3.googleusercontent.com/-kAfkrMEo2t4/Vu4cdKo7xvI/AAAAAAAACOg/23PD4yUbMaYI2IhS5SXTYbhjNbvEG2EMACCo/s598-Ic42/sublime-play-music.gif)
 
 
 
