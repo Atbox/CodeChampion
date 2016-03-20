@@ -7,17 +7,15 @@ This Plugin plays funny sound clips on Sublime Text.
 
 ## How To Install
 
-### Mac OSX:
+1. Download: https://github.com/Atbox/CodeChampion/archive/master.zip
+2. Extract and rename `CodeChampion-master` to `CodeChampion`
+3. Copy `CodeChampion` to your packages path:
 
-Copy the package to `~/Library/Application Support/Sublime Text 3/Packages/`
+Mac OSX: `~/Library/Application Support/Sublime Text 3/Packages/`
 
-### Linux:
+Linux: `/home/[USER]/.config/sublime-text-3/Packages/`
 
-Copy the package to `/home/[USER]/.config/sublime-text-3/Packages/`
-
-### Windows:
-
-Copy the package to `/Users/[USER]/AppData/Roaming/Sublime Text 3/Packages/`
+Windows: `/Users/[USER]/AppData/Roaming/Sublime Text 3/Packages/`
 
 
 
