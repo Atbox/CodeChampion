@@ -117,7 +117,7 @@
 			},{"caption": "🍩 Homer Simpson - You Failed",
 				"command": "changesound",
 				"args": { "type": "fail",
-					"sound": "homer_you_failed.wav"
+					"sound": "homer_you_tried.wav"
 				}
 			},{"caption": "😡 Samuel L. Jackson - Motherf*cker",
 				"command": "changesound",
