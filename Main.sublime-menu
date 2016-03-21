@@ -49,7 +49,7 @@
 				"args": { "type": "win",
 					"sound": "starwars_theme.wav"
 				}
-			},{"caption": "🐯 Eye Of Tiger (Rockey theme)",
+			},{"caption": "🐯 Eye Of Tiger (Rocky theme)",
 				"command": "changesound",
 				"args":{ "type": "win",
 					"sound": "eye_of_tiger.wav"
