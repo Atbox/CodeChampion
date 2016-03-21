@@ -1,7 +1,7 @@
 [{
 	"id": "tools",
 	"children": [{
-		"caption": "✌️ Epic Victory [ctrl+shift+v]",
+		"caption": "✌️ Epic Victory [ctrl+alt+v]",
 		"id": "Code Champion",
 		"children": [
 			{"caption": "💨 Sonic The Hedgehog - Stage Clear",
@@ -102,7 +102,7 @@
 			},
 		]
 	},{
-		"caption": "💩 Epic Fail [ctrl+shift+f]",
+		"caption": "💩 Epic Fail [ctrl+alt+f]",
 		"children": [
 			{"caption": "🍄 Super Mario Bros - Game Over",
 				"command": "changesound",

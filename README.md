@@ -24,14 +24,14 @@ This Plugin plays funny sound clips and epic musics on Sublime Text.
 ## How To Use
 
 1. Navigate to `Tools > Epic Victory` or `Tools > Epic Fail` and Choose a default sound for each action
-2. Press `Ctrl + Shift + v` to play the Victory sound
-3. Press `Ctrl + Shift + f` to play the fail sound
+2. Press `Control + Alt + V` to play the Victory sound
+3. Press `Control + Alt + F` to play the fail sound
 
 
 ## Screenshots
 
-![Victory Sounds](https://lh3.googleusercontent.com/-7FxDGSgdooM/Vu4XoySba2I/AAAAAAAACOI/H3GfDzRgUI8LcyHIVM_b7goah7BzacUpwCCo/s686-Ic42/cc1.png)
-![Fail Sounds](https://lh3.googleusercontent.com/-GftWtN2ehas/Vu4XrjRcS1I/AAAAAAAACOM/l3OlK_t1MKs-1N_DdpRpc6CYarFRl9cEwCCo/s636-Ic42/cc2.png)
+![Victory Sounds](https://lh3.googleusercontent.com/-z_fsnrhsiN4/Vu_bkkbh6sI/AAAAAAAACPA/BTDPe51iWJga2YDj_PKzFoyAYq-IWdslwCCo/s676-Ic42/Screen%2BShot%2B2016-03-21%2Bat%2B4.00.22%2BPM.png)
+![Fail Sounds](https://lh3.googleusercontent.com/-cYlcTYqBejY/Vu_bkdClpXI/AAAAAAAACO8/iuCSJ6qfvBQchM_H2iLvIsiMCY510W7swCCo/s631-Ic42/Screen%2BShot%2B2016-03-21%2Bat%2B4.00.38%2BPM.png)
 
 
 
