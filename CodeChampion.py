@@ -1,3 +1,6 @@
+import os
+import glob
+import random
 import sublime, sublime_plugin,wave
 from subprocess import call
 from .libs.decorators import thread
@@ -24,23 +27,37 @@ class PlaySound():
 	def osx_play(self):
 		if(self.is_playing == False):
 			self.is_playing = True
-			soundFile = sublime.load_settings(SETTING_NAME).get(self.soundType)
-			call(["afplay", "-v", str(1), sublime.packages_path() + '/CodeChampion/sounds/' + soundFile])
+			soundFilePath = self.get_sound_file_path(self.soundType)
+			call(["afplay", "-v", str(1), soundFilePath])
 			self.is_playing = False
 	@thread
 	def windows_play(self):
 		if(self.is_playing == False):
 			self.is_playing = True
-			soundFile = sublime.load_settings(SETTING_NAME).get(self.soundType)
-			winsound.PlaySound(sublime.packages_path() + '\\CodeChampion\\sounds\\' + soundFile, winsound.SND_FILENAME | winsound.SND_ASYNC | winsound.SND_NODEFAULT)
+			soundFilePath = self.get_sound_file_path(self.soundType)
+			winsound.PlaySound(soundFilePath, winsound.SND_FILENAME | winsound.SND_ASYNC | winsound.SND_NODEFAULT)
 			self.is_playing = False
 	@thread
 	def linux_play(self):
 		if(self.is_playing == False):
 			self.is_playing = True
-			soundFile = sublime.load_settings(SETTING_NAME).get(self.soundType)
-			call(["aplay", sublime.packages_path() + '/CodeChampion/sounds/' + soundFile])
+			soundFilePath = self.get_sound_file_path(self.soundType)
+			call(["aplay", soundFilePath])
 			self.is_playing = False
+
+	def get_sound_file_path(self, soundType):
+		soundFilePath = ''
+		soundFile = sublime.load_settings(SETTING_NAME).get(soundType)
+		baseDirectory = os.path.join(sublime.packages_path(), 'CodeChampion', 'sounds', soundType)
+
+		if soundFile == 'Random':
+			allSoundFiles = glob.glob(os.path.join(baseDirectory, '*'))
+			soundFilePath = random.choice(allSoundFiles)
+		else:
+			soundFilePath = os.path.join(baseDirectory, soundFile)
+
+		return soundFilePath
+
 
 class PlaychampionCommand(sublime_plugin.TextCommand):
 	is_playing = False
