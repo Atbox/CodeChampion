@@ -48,7 +48,7 @@ class PlaySound():
 	def get_sound_file_path(self, soundType):
 		soundFilePath = ''
 		soundFile = sublime.load_settings(SETTING_NAME).get(soundType)
-		baseDirectory = os.path.join(sublime.packages_path(), 'CodeChampion', 'sounds', soundType)
+		baseDirectory = os.path.join(sublime.packages_path(), 'Code Champion', 'sounds', soundType)
 
 		if soundFile == 'Random':
 			allSoundFiles = glob.glob(os.path.join(baseDirectory, '*'))
