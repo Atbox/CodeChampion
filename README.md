@@ -10,7 +10,7 @@ This Plugin plays funny sound clips and epic musics on Sublime Text.
 
 
 ## How To Install
-1. Install Package Controll: https://packagecontrol.io/installation
+1. You need Package Control: https://packagecontrol.io/installation
 2. press `ctrl+shift+p` (Win, Linux) or `cmd+shift+p` (OS X)
 3. Choose `Package Control: Install Package`
 4. Choose `Code Champion`
