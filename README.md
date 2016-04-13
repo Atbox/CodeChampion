@@ -10,10 +10,16 @@ This Plugin plays funny sound clips and epic musics on Sublime Text.
 
 
 ## How To Install
+### Method 1: Install with Package Control
+1. Install Package Controll: https://packagecontrol.io/installation
+2. press `ctrl+shift+p` (Win, Linux) or `cmd+shift+p` (OS X)
+3. Choose `Package Control: Install Package`
+4. Choose `Code Champion`
 
+### Method 2: Manual Install
 1. Download: https://github.com/Atbox/CodeChampion/archive/master.zip
-2. Extract and rename `CodeChampion-master` to `CodeChampion`
-3. Copy `CodeChampion` to your packages path:
+2. Extract and rename `CodeChampion-master` to `Code Champion`
+3. Copy `Code Champion` to your packages path:
   - Mac OSX: `[USER]/Library/Application Support/Sublime Text 3/Packages/`
   - Linux:   `/home/[USER]/.config/sublime-text-3/Packages/`
   - Windows: `/Users/[USER]/AppData/Roaming/Sublime Text 3/Packages/`
