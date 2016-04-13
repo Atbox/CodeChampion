@@ -15,7 +15,7 @@ This Plugin plays funny sound clips and epic musics on Sublime Text.
 3. Choose `Package Control: Install Package`
 4. Choose `Code Champion`
 
-If you don't have package controll:
+If you don't have package control:
 https://github.com/Atbox/CodeChampion/wiki/Manual-Installation
 
 
