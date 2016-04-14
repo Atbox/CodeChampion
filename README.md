@@ -34,4 +34,5 @@ https://github.com/Atbox/CodeChampion/wiki/Manual-Installation
 ![Fail Sounds](https://lh3.googleusercontent.com/-cYlcTYqBejY/Vu_bkdClpXI/AAAAAAAACO8/iuCSJ6qfvBQchM_H2iLvIsiMCY510W7swCCo/s631-Ic42/Screen%2BShot%2B2016-03-21%2Bat%2B4.00.38%2BPM.png)
 
 
-
+## Share this!
+[![share](https://static.addtoany.com/images/blog/tweet-button-2015.png)](https://twitter.com/intent/tweet?text=Code Champion - Play epic sound clips on Sublime Text. by @atbox_io%20-%20https://github.com/Atbox/CodeChampion/)
