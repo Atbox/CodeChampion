@@ -26,9 +26,10 @@ class PlaySound():
 	@thread
 	def osx_play(self):
 		if(self.is_playing == False):
+			volume = sublime.load_settings(SETTING_NAME).get('mac_osx_volume')
 			self.is_playing = True
 			soundFilePath = self.get_sound_file_path(self.soundType)
-			call(["afplay", "-v", str(1), soundFilePath])
+			call(["afplay", "-v", str(volume), soundFilePath])
 			self.is_playing = False
 	@thread
 	def windows_play(self):
