@@ -2,4 +2,5 @@
     "min_span": 100, // millisecond
     "win": "Random",
     "fail": "Random",
+    "mac_osx_volume": 0.8,
 }
