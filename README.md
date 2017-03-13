@@ -5,7 +5,7 @@ When you write epic code, you'll need some epic music!
 This Plugin plays funny sound clips and epic music on Sublime Text. (see also [Atom version](https://github.com/Atbox/CodeChampion-Atom) and [Visual Studio version](https://github.com/Hameds/CodeChampion-VS))
 
 
-![play epic music sublime text](https://dl.dropboxusercontent.com/content_link/UadMLrOqxczZWAoEt7Dv2OmCFfhV9XV6H8IKfgc4HCe8GEgS5vUHKCzphTF6ZzHG/file?raw=1&dl=0&duc_id=muZrSpK7Lg1lZ17wOBaJaM0A8g9oe43HCBfyXlIZclMiwz9qg1BkbNMU45rvqV1j&size=1024x768&size_mode=3)
+![play epic music sublime text](https://image.ibb.co/hjDztv/code_champion_plugin.gif)
 
 
 
