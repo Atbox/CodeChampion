@@ -35,4 +35,4 @@ https://github.com/Atbox/CodeChampion/wiki/Manual-Installation
 
 
 ## Share this!
-[![share](https://static.addtoany.com/images/blog/tweet-button-2015.png)](https://twitter.com/intent/tweet?text=Code Champion - Play epic sound clips on Sublime Text. by @atbox_io%20-%20https://github.com/Atbox/CodeChampion/)
+[![share](https://static.addtoany.com/images/blog/tweet-button-2015.png)](https://twitter.com/intent/tweet?text=Code%20Champion%20-%20Play%20epic%20sound%20clips%20on%20Sublime%20Text.%20by%20%40atbox_io%20https://github.com/Atbox/CodeChampion/)
